@@ -1,7 +1,0 @@
-BackButtonn.addActionListener(new ActionListener() {
-		    public void actionPerformed(ActionEvent e) {
-		        dispose(); // dispose the frame
-	}
-		});
-
-I am a hardworking college student with a self-motivated attitude and a variety of powerful skills. Adept in various social media platforms and office technology programs. Committed to contributing my expertise in dynamic office or media production environment.
